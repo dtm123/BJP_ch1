@@ -2,6 +2,10 @@
 // Dan West
 // This code prints some output
 
+// //////////////////////
+// || Victory is mine! ||
+// \\\\\\\\\\\\\\\\\\\\\\
+
 public class Stewie {
     public static void main(String[] args) {
         System.out.println ("//////////////////////");
